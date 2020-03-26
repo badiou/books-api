@@ -1,4 +1,4 @@
-Full Stack Trivia API Backend
+Full Stack Books API Backend
 Getting Started
 Installing Dependencies
 Python 3.7
@@ -19,13 +19,6 @@ Flask is a lightweight backend microservices framework. Flask is required to han
 SQLAlchemy is the Python SQL toolkit and ORM we'll use handle the lightweight sqlite database. You'll primarily work in app.py and can reference models.py.
 
 Flask-CORS is the extension we'll use to handle cross origin requests from our frontend server.
-
-Database Setup
-With Postgres running, restore a database using the trivia.psql file provided. From the backend folder in terminal run:
-
-psql trivia < books.psql
-Running the server
-
 
 To run the server, execute:
 
